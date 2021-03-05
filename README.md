@@ -1,4 +1,4 @@
-# NeuralNetworkFromScratch
+# Neural Network From Scratch in Java
 [Neural Network from scratch in Java] Classifying Mnist data
 
 In this repository a neural network was written in Java which classifies MNIST data.
