@@ -29,7 +29,6 @@ Which is not very good, convolutional Neural Networks have an accucary of ~99%, 
 
 In order to make this code work MNSIT Dataset is necessary. I've uploaded the files here:
 
-https://www.file-upload.net/download-14510874/mnist_test.txt.html
-
-https://www.file-upload.net/download-14510879/mnist_train.txt.html
+https://www.file-upload.net/download-14510874/mnist_test.txt.html<br>
+https://www.file-upload.net/download-14510879/mnist_train.txt.html<br>
 just move them into the source code folder.
