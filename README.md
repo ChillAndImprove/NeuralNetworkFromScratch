@@ -21,7 +21,7 @@ javac NeuronalesNetz.java
 java NeuronalesNetz
 ``
 
-**Linux**:
+**Linux**:<br>
 ``
 make
 ``
