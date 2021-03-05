@@ -14,7 +14,8 @@ The following Java code was programmed as a proof-of-concept prototype without m
 
 **Windows**:
 ``
-javac Neural Network.java<br>
+javac Neural Network.java
+
 java neural network
 ``
 
