@@ -1,26 +1,27 @@
 # NeuralNetworkFromScratch
-[Neural Network from scratch in Java] Classifying Mnist data 
+[Neural Network from scratch in Java] Classifying Mnist data
 
-In diesem Repository wurde ein Neuronale Netz in Java geschrieben was MNIST Daten klassifiziert.
+In this repository a neural network was written in Java which classifies MNIST data.
 
-**Woraus bestehen die Daten?**
+** What does the data consist of? **
 
->"The MNIST database (Modified National Institute of Standards and Technology database) is a large database of handwritten digits that is commonly used for >training various image processing systems.[..]
->The MNIST database contains 60,000 training images and 10,000 testing images."
+> "The MNIST database (Modified National Institute of Standards and Technology database) is a large database of handwritten digits that is commonly used for> training various image processing systems. [..]
+> The MNIST database contains 60,000 training images and 10,000 testing images. "
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png)
+! [alt text] (https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png)
 
-Der folgende Javacode wurde als Proof-Of-Concept Prototyp programmiert ohne viel Wert auf Dokumentation gelegt( erkennbar dadurch das Kommentare und Methoden auf Deutsch geschrieben wurden). Er diente dem Verständis des Gradient Descent Algorithmen. 
+The following Java code was programmed as a proof-of-concept prototype without much emphasis on documentation (recognizable by the fact that comments and methods were written in German). It served the understanding of the Gradient Descent Algorithm.
 
-**Windows**:
-```
-javac NeuronalesNetz.java 
-java NeuronalesNetz 
-```
+** Windows **:
+``
+javac Neural Network.java
+java neural network
+``
 
-**Linux**:
-```
-make 
-```
+** Linux **:
+``
+make
+``
 
-Dieses Netzt schafft eine Genauigkeit von ~85%. Was nicht sehr gut ist. Convolutional Neural Networks schaffen 99%, aber da es hier darum ging das lernen zu verstehen ist es in Ordnung
+This network has an accuracy of ~ 85%. Which is not very good, convolutional Neural Networks have an accucary of ~99%, but since this was about learning gradient descent algorithm, it's fine
+
