@@ -27,3 +27,8 @@ This network has an accuracy of ~ **85%**.
 
 Which is not very good, convolutional Neural Networks have an accucary of ~99%, but since this was about learning gradient descent algorithm, it's fine
 
+In order to make this code work MNSIT Dataset is necessary. I've uploaded the files here:
+
+https://www.file-upload.net/download-14510874/mnist_test.txt.html
+https://www.file-upload.net/download-14510879/mnist_train.txt.html
+just move them into the source code folder.
