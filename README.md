@@ -13,6 +13,7 @@ In this repository a neural network was written in Java which classifies MNIST d
 The following Java code was programmed as a proof-of-concept prototype without much emphasis on documentation (recognizable by the fact that comments and methods were written in German). It served the understanding of the Gradient Descent Algorithm.
 
 **Windows**:
+<br>
 ``
 javac Neural Network.java
 ``
