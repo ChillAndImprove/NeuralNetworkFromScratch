@@ -23,5 +23,7 @@ java neural network
 make
 ``
 
-This network has an accuracy of ~ 85%. Which is not very good, convolutional Neural Networks have an accucary of ~99%, but since this was about learning gradient descent algorithm, it's fine
+This network has an accuracy of ~ **85%**. 
+
+Which is not very good, convolutional Neural Networks have an accucary of ~99%, but since this was about learning gradient descent algorithm, it's fine
 
