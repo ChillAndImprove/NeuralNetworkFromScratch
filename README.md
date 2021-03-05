@@ -14,11 +14,11 @@ The following Java code was programmed as a proof-of-concept prototype without m
 **Windows**:
 <br>
 ``
-javac NeuralesNetzwerk.java
+javac NeuronalesNetz.java
 ``
 <br>
 ``
-java NeuralesNetzwerk
+java NeuronalesNetz
 ``
 
 **Linux**:
